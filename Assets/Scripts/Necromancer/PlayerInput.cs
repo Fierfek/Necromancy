@@ -8,13 +8,11 @@ public class PlayerInput : MonoBehaviour {
 	private float x, y;
 	private Rigidbody2D body;
 	private Vector2 direction;
-	Vector2 newPosition;
 
 	// Use this for initialization
 	void Start () {
 		body = GetComponent<Rigidbody2D>();
 		direction = Vector2.zero;
-		newPosition = Vector3.zero;
 	}
 	
 	// Update is called once per frame
