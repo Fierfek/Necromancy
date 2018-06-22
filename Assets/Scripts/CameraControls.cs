@@ -5,7 +5,10 @@ using UnityEngine;
 public class CameraControls : MonoBehaviour {
 	Camera camera;
 	public float cameraHeight = -10;
+	public float cameraSpeed;
 	public Transform target;
+
+	private float maxDelta = 0f;
 
 	// Use this for initialization
 	void Start () {
@@ -14,7 +17,9 @@ public class CameraControls : MonoBehaviour {
 	
 	// Update is called once per frame
 	void LateUpdate () {
-		transform.Translate(target.position - transform.position);
+		maxDelta = Vector3.Distance(transform.position, target.position) / (Mathf.Pow(1.03f, 2));
+		transform.position = Vector3.MoveTowards(transform.position, target.position, maxDelta);
+		//transform.Translate(target.position - transform.position);
 	}
 
 	public void setTarget(Transform newTarget) {

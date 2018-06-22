@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerInput : MonoBehaviour {
 
-	public float speed = 1;
+	public float speed = 4;
 	private float x, y;
 	private Rigidbody2D body;
 	private Vector2 direction;
@@ -15,6 +15,11 @@ public class PlayerInput : MonoBehaviour {
 		direction = Vector2.zero;
 	}
 	
+	void FixedUpdate() {
+		body.MovePosition(body.position + (direction.normalized * speed) * Time.fixedDeltaTime);
+		//transform.position = body.position + (direction.normalized * speed) * Time.fixedDeltaTime;
+	}
+
 	// Update is called once per frame
 	void Update () {
 		x = Input.GetAxis("Horizontal");
@@ -22,6 +27,6 @@ public class PlayerInput : MonoBehaviour {
 
 		direction.Set(x, y);
 
-		body.MovePosition(body.position + (direction.normalized * speed) * Time.deltaTime);
+		//body.velocity = (direction.normalized * speed);
 	}
 }
