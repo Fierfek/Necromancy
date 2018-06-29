@@ -98,6 +98,102 @@ TextureImporter:
     21300186: Skeleton_MoveLoop_DR_3
     21300188: Skeleton_MoveLoop_DR_4
     21300190: Skeleton_MoveLoop_DR_5
+    21300192: Skeleton 0
+    21300194: Skeleton 1
+    21300196: Skeleton 2
+    21300198: Skeleton 3
+    21300200: Skeleton 4
+    21300202: Skeleton 5
+    21300204: Skeleton 6
+    21300206: Skeleton 7
+    21300208: Skeleton 8
+    21300210: Skeleton 9
+    21300212: Skeleton 10
+    21300214: Skeleton 11
+    21300216: Skeleton 12
+    21300218: Skeleton 13
+    21300220: Skeleton 14
+    21300222: Skeleton 15
+    21300224: Skeleton 16
+    21300226: Skeleton 17
+    21300228: Skeleton 18
+    21300230: Skeleton 19
+    21300232: Skeleton 20
+    21300234: Skeleton 21
+    21300236: Skeleton 22
+    21300238: Skeleton 23
+    21300240: Skeleton 24
+    21300242: Skeleton 25
+    21300244: Skeleton 26
+    21300246: Skeleton 27
+    21300248: Skeleton 28
+    21300250: Skeleton 29
+    21300252: Skeleton 30
+    21300254: Skeleton 31
+    21300256: Skeleton 32
+    21300258: Skeleton 33
+    21300260: Skeleton 34
+    21300262: Skeleton 35
+    21300264: Skeleton 36
+    21300266: Skeleton 37
+    21300268: Skeleton 38
+    21300270: Skeleton 39
+    21300272: Skeleton 40
+    21300274: Skeleton 41
+    21300276: Skeleton 42
+    21300278: Skeleton 43
+    21300280: Skeleton 44
+    21300282: Skeleton 45
+    21300284: Skeleton 46
+    21300286: Skeleton 47
+    21300288: Skeleton 48
+    21300290: Skeleton 49
+    21300292: Skeleton 50
+    21300294: Skeleton 51
+    21300296: Skeleton 52
+    21300298: Skeleton 53
+    21300300: Skeleton 54
+    21300302: Skeleton 55
+    21300304: Skeleton 56
+    21300306: Skeleton 57
+    21300308: Skeleton 58
+    21300310: Skeleton 59
+    21300312: Skeleton 60
+    21300314: Skeleton 61
+    21300316: Skeleton 62
+    21300318: Skeleton 63
+    21300320: Skeleton 64
+    21300322: Skeleton 65
+    21300324: Skeleton 66
+    21300326: Skeleton 67
+    21300328: Skeleton 68
+    21300330: Skeleton 69
+    21300332: Skeleton 70
+    21300334: Skeleton 71
+    21300336: Skeleton 72
+    21300338: Skeleton 73
+    21300340: Skeleton 74
+    21300342: Skeleton 75
+    21300344: Skeleton 76
+    21300346: Skeleton 77
+    21300348: Skeleton 78
+    21300350: Skeleton 79
+    21300352: Skeleton 80
+    21300354: Skeleton 81
+    21300356: Skeleton 82
+    21300358: Skeleton 83
+    21300360: Skeleton 84
+    21300362: Skeleton 85
+    21300364: Skeleton 86
+    21300366: Skeleton 87
+    21300368: Skeleton 88
+    21300370: Skeleton 89
+    21300372: Skeleton 90
+    21300374: Skeleton 91
+    21300376: Skeleton 92
+    21300378: Skeleton 93
+    21300380: Skeleton 94
+    21300382: Skeleton 95
   externalObjects: {}
   serializedVersion: 5
   mipmaps:
@@ -167,7 +263,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_D_0
+      name: Skeleton 0
       rect:
         serializedVersion: 2
         x: 0
@@ -181,13 +277,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 72fe8f7b1bef6544a90506e6ec0af7c3
+      spriteID: 135b6fd87b900964f91cc87e3cf5eed3
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_D_1
+      name: Skeleton 1
       rect:
         serializedVersion: 2
         x: 27
@@ -201,13 +297,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 24dda949a02ae4241892d2b25c0d9aea
+      spriteID: 670b549913939744eb8c234253696870
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_D_2
+      name: Skeleton 2
       rect:
         serializedVersion: 2
         x: 54
@@ -221,13 +317,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 687f202c38cbe7b4abe4294b809631bc
+      spriteID: 54ad286d1439cfb4ca03a971ccc96a6e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_D_3
+      name: Skeleton 3
       rect:
         serializedVersion: 2
         x: 81
@@ -241,13 +337,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8fa6afdffae83344b9acd397868b6ff0
+      spriteID: 0ee83f5815671f1499e7db5135dc64e1
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_D_4
+      name: Skeleton 4
       rect:
         serializedVersion: 2
         x: 108
@@ -261,13 +357,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aa77e802704dce047b347644932253bc
+      spriteID: 0131f33d053a0164fbfc2bd61428ca4e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_D_5
+      name: Skeleton 5
       rect:
         serializedVersion: 2
         x: 135
@@ -281,13 +377,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8824581b01c035e4a97877696193d52e
+      spriteID: e7ca7f854bcc1ca40b76c1dc0d999719
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_DL_0
+      name: Skeleton 6
       rect:
         serializedVersion: 2
         x: 162
@@ -301,13 +397,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3c3f5a11a10c52c4fa6c119cfe367263
+      spriteID: 21b88fc2e135321418d977461aa9a3fd
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_DL_1
+      name: Skeleton 7
       rect:
         serializedVersion: 2
         x: 189
@@ -321,13 +417,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0bc8115998068414b8bb1fb44b484353
+      spriteID: 8874c21e2c583bb4a87d2ac2e5df0efe
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_DL_2
+      name: Skeleton 8
       rect:
         serializedVersion: 2
         x: 216
@@ -341,13 +437,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 252189f8ef7a4f24eb917140cca98f9a
+      spriteID: dfa94a8280fa350479c0f35ae558b1e1
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_DL_3
+      name: Skeleton 9
       rect:
         serializedVersion: 2
         x: 243
@@ -361,13 +457,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 51c9acf8f5f0713459c9b0f2033ecdf6
+      spriteID: f4d51110b8c828c4a914050c9a794551
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_DL_4
+      name: Skeleton 10
       rect:
         serializedVersion: 2
         x: 270
@@ -381,13 +477,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5033733ca5921f94bb8af2aa8de19e75
+      spriteID: dbea37eabc4b98a4ca2f94e942c8b834
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_DL_5
+      name: Skeleton 11
       rect:
         serializedVersion: 2
         x: 297
@@ -401,13 +497,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f3687d24f8499cb4697024863c072cb3
+      spriteID: 971f3602c0ea78c48a006410ed9bf655
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_L_0
+      name: Skeleton 12
       rect:
         serializedVersion: 2
         x: 324
@@ -421,13 +517,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c2acca80052e940428972058d002061b
+      spriteID: 6f3e4a3c7c19d824f9babda95e502c52
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_L_1
+      name: Skeleton 13
       rect:
         serializedVersion: 2
         x: 351
@@ -441,13 +537,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5f2efc5679f6ec84faf08ec17ea37fd6
+      spriteID: f96aee9296b178e48b9cf175ef3a1b16
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_L_2
+      name: Skeleton 14
       rect:
         serializedVersion: 2
         x: 378
@@ -461,13 +557,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 76d2647f99560d248b19229bf6459318
+      spriteID: 07623e1eea2bc1e46a9123f38cd180f9
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_L_3
+      name: Skeleton 15
       rect:
         serializedVersion: 2
         x: 405
@@ -481,13 +577,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ec5c86cfbcbbf964790e8eb82f47ef56
+      spriteID: 6f118f08a86128746abe8c66a186c839
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_L_4
+      name: Skeleton 16
       rect:
         serializedVersion: 2
         x: 432
@@ -501,13 +597,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b9e53d317a2876b439c2b130e7c95c62
+      spriteID: c315d10afd2f0274fac1c0365593e4f1
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_L_5
+      name: Skeleton 17
       rect:
         serializedVersion: 2
         x: 459
@@ -521,13 +617,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9dccc7e91bf1d0f42a13cd63ab8a40eb
+      spriteID: 050f1255870790d46b0d698c45c65a68
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_UL_0
+      name: Skeleton 18
       rect:
         serializedVersion: 2
         x: 0
@@ -541,13 +637,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e2181e682222c4a479a0eb232a2e4dda
+      spriteID: 506ed34f5ab23c042a0a04f9e380cbc1
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_UL_1
+      name: Skeleton 19
       rect:
         serializedVersion: 2
         x: 27
@@ -561,13 +657,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0f07a466d35ae1e41b202b7e11d18bf9
+      spriteID: 7d829626f6c926849bb29a4a2bf1ece7
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_UL_2
+      name: Skeleton 20
       rect:
         serializedVersion: 2
         x: 54
@@ -581,13 +677,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1033ec628cfeb5743b4a41619d491c33
+      spriteID: a84bd8f8609def844adaf3458cb59872
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_UL_3
+      name: Skeleton 21
       rect:
         serializedVersion: 2
         x: 81
@@ -601,13 +697,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b9964016fc8cf0844b7f9ec2753c5ba3
+      spriteID: eb65a187ab064b247a66231e654c731b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_UL_4
+      name: Skeleton 22
       rect:
         serializedVersion: 2
         x: 108
@@ -621,13 +717,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 68d58491a69922440a3610f3d714315d
+      spriteID: d29a39fb43437234586c02943a71fa0f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_UL_5
+      name: Skeleton 23
       rect:
         serializedVersion: 2
         x: 135
@@ -641,13 +737,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3ca9a9eda1bacc4488e4f1c0ec765023
+      spriteID: df7c4b0e3d110b149ba20cae5168c329
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_U_0
+      name: Skeleton 24
       rect:
         serializedVersion: 2
         x: 162
@@ -661,13 +757,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b9153c16da825b9419db61136162c52d
+      spriteID: 400e61bc4c6cdf54688b55a3ba807306
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_U_1
+      name: Skeleton 25
       rect:
         serializedVersion: 2
         x: 189
@@ -681,13 +777,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 87ccd749e82bfc048a38380b73ea4135
+      spriteID: 105e0fe16acc6c847b92e5ef89f081b1
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_U_2
+      name: Skeleton 26
       rect:
         serializedVersion: 2
         x: 216
@@ -701,13 +797,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 178d82a2a173dd743af9c3b40b36bd31
+      spriteID: 1c0a3a3b63361bf4481d75340e250bdb
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_U_3
+      name: Skeleton 27
       rect:
         serializedVersion: 2
         x: 243
@@ -721,13 +817,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 38f707745cbbc0c428a9bc7b59639527
+      spriteID: b6ca8d381787eba4f8daf1f54d07a831
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_U_4
+      name: Skeleton 28
       rect:
         serializedVersion: 2
         x: 270
@@ -741,13 +837,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f98896c30b9631c40af76c95e887b7bc
+      spriteID: b93e49bd8a367774fa1011580783d341
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_U_5
+      name: Skeleton 29
       rect:
         serializedVersion: 2
         x: 297
@@ -761,13 +857,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cb14efc7a47dbdc4387d35a0fd2ad250
+      spriteID: 7315d712300d1284f807639b13c29c85
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_UR_0
+      name: Skeleton 30
       rect:
         serializedVersion: 2
         x: 324
@@ -781,13 +877,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1005e4870c9881147946c3f2d87161b8
+      spriteID: dfb0cc0c266146c48b8fd92327be1af9
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_UR_1
+      name: Skeleton 31
       rect:
         serializedVersion: 2
         x: 351
@@ -801,13 +897,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b11d9e12dd6c7394386e72c6b4e31450
+      spriteID: 5f0515ed1e305704f961109d3878bd7a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_UR_2
+      name: Skeleton 32
       rect:
         serializedVersion: 2
         x: 378
@@ -821,13 +917,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 73bd3ab8dd4094541a108ebf0c45de9b
+      spriteID: 4d0783f412f6e804dae6fe2b4e02b1b9
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_UR_3
+      name: Skeleton 33
       rect:
         serializedVersion: 2
         x: 405
@@ -841,13 +937,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 12b1ced0b11d97d40b77483d86b7ef98
+      spriteID: 36057abc53c220148b17e79a6068b30a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_UR_4
+      name: Skeleton 34
       rect:
         serializedVersion: 2
         x: 432
@@ -861,13 +957,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b55d70ce89ee33c41b53ef8b517e2e03
+      spriteID: 22480bbc832dfcb4f8783ced5096f23b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_UR_5
+      name: Skeleton 35
       rect:
         serializedVersion: 2
         x: 459
@@ -881,13 +977,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aa88545697c6af64eb537c1d29d13d0b
+      spriteID: 8275d085a62a7ae45a090cc91468211e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_R_0
+      name: Skeleton 36
       rect:
         serializedVersion: 2
         x: 0
@@ -901,13 +997,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8ecc178e44bc5fc48802e41e7099ea7c
+      spriteID: 9012c65bb36e63547a91e0bec9de9356
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_R_1
+      name: Skeleton 37
       rect:
         serializedVersion: 2
         x: 27
@@ -921,13 +1017,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e54bfbdd5de8dde45837e8e57ce3da0f
+      spriteID: d043e009f0fa1944cbf8bb337cb73d33
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_R_2
+      name: Skeleton 38
       rect:
         serializedVersion: 2
         x: 54
@@ -941,13 +1037,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 29645e1d45afbde469b2a3bbc66fae9d
+      spriteID: d99ae23aba490f34eb074e362fcbb8ac
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_R_3
+      name: Skeleton 39
       rect:
         serializedVersion: 2
         x: 81
@@ -961,13 +1057,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bfd474bcc403d264c861943264e2df6e
+      spriteID: ebd07c0f079331142a786eb8cb906b42
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_R_4
+      name: Skeleton 40
       rect:
         serializedVersion: 2
         x: 108
@@ -981,13 +1077,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 44ecf56d880b39e4e88f0aebce9668c7
+      spriteID: d8dc675c409d3a04688361cc93762ba5
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_R_5
+      name: Skeleton 41
       rect:
         serializedVersion: 2
         x: 135
@@ -1001,13 +1097,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e1714b1712262614582b7b70c85ede95
+      spriteID: 0507ba955e5735a46a85ba3bb5e18766
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_DR_0
+      name: Skeleton 42
       rect:
         serializedVersion: 2
         x: 162
@@ -1021,13 +1117,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bc57a4ec01c62a34a94c0b978df54dbb
+      spriteID: 91af9499d6391be4db022cc6709f1dfa
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_DR_1
+      name: Skeleton 43
       rect:
         serializedVersion: 2
         x: 189
@@ -1041,13 +1137,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1e0e083882941fb42a75b2c03abdb31b
+      spriteID: bf56d3f7f52a46c4b8d49b07114ca44b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_DR_2
+      name: Skeleton 44
       rect:
         serializedVersion: 2
         x: 216
@@ -1061,13 +1157,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f1a0dced3e5d305449f37ecb855176f7
+      spriteID: 6ffa92a244458a0498e5e7fc608c6124
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_DR_3
+      name: Skeleton 45
       rect:
         serializedVersion: 2
         x: 243
@@ -1081,13 +1177,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cdfeb8e74803ef34c9a66a76c15e95c8
+      spriteID: 22802fa3d88a22c439e6e62bedc2b89f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_DR_4
+      name: Skeleton 46
       rect:
         serializedVersion: 2
         x: 270
@@ -1101,13 +1197,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5d4360dac940876498243f62eff4dc5a
+      spriteID: 2825e893f74c8f240b2d5901f758218c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_IdleLoop_DR_5
+      name: Skeleton 47
       rect:
         serializedVersion: 2
         x: 297
@@ -1121,13 +1217,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: df7e5bb6da308be48a0d82e79292ee93
+      spriteID: a6d1bba25193cdf4ea65b41496078859
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_D_0
+      name: Skeleton 48
       rect:
         serializedVersion: 2
         x: 324
@@ -1141,13 +1237,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 504faf61123a0184c9cfc97ee995c5b4
+      spriteID: 5ee59b6fff82d9e4d827df87757b5a37
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_D_1
+      name: Skeleton 49
       rect:
         serializedVersion: 2
         x: 351
@@ -1161,13 +1257,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 001b3dbc6f02fd14eb86e07201c8d5fe
+      spriteID: dc34fa293116eff46b4b5fdf3754db09
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_D_2
+      name: Skeleton 50
       rect:
         serializedVersion: 2
         x: 378
@@ -1181,13 +1277,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e0caffdd695a573409884d0795ba58a4
+      spriteID: d88dd39a574bdd94db5922e227007f62
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_D_3
+      name: Skeleton 51
       rect:
         serializedVersion: 2
         x: 405
@@ -1201,13 +1297,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ccab181b9d761364c9cfe476c9e822f2
+      spriteID: c5876ee26424179449b850c60dd2fcc4
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_D_4
+      name: Skeleton 52
       rect:
         serializedVersion: 2
         x: 432
@@ -1221,13 +1317,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a9cc9c388f2f3844d9f307f7d9247d4f
+      spriteID: 9557e6a3bc1dae4459615d4663865c5f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_D_5
+      name: Skeleton 53
       rect:
         serializedVersion: 2
         x: 459
@@ -1241,13 +1337,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e7a5840b82fe7404d8e77b00bf259479
+      spriteID: 05e84138c88e909428f890c36680e677
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_DL_0
+      name: Skeleton 54
       rect:
         serializedVersion: 2
         x: 0
@@ -1261,13 +1357,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9ec6608ee8b94954bbfc556523132bc8
+      spriteID: 0c2a3493b8312894192db8989ba49db9
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_DL_1
+      name: Skeleton 55
       rect:
         serializedVersion: 2
         x: 27
@@ -1281,13 +1377,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c5d27ff8421bd2943ae58bff5047f295
+      spriteID: e3e2eaed9e916324fa0beadf416e7464
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_DL_2
+      name: Skeleton 56
       rect:
         serializedVersion: 2
         x: 54
@@ -1301,13 +1397,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6dd0e9f4282f0bb48bc96a21b3592640
+      spriteID: 1a1f47a0a65d05b48be2634fdca572c1
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_DL_3
+      name: Skeleton 57
       rect:
         serializedVersion: 2
         x: 81
@@ -1321,13 +1417,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c7a246ec5df2ed749a3d0d9eae3b67a0
+      spriteID: 8796a9f4bb9fd4144a176472d647939d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_DL_4
+      name: Skeleton 58
       rect:
         serializedVersion: 2
         x: 108
@@ -1341,13 +1437,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2bc9968444b55d84598d46c54b2e074f
+      spriteID: 31a8f121cf7460b42bf0277380213684
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_DL_5
+      name: Skeleton 59
       rect:
         serializedVersion: 2
         x: 135
@@ -1361,13 +1457,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4ce4095e793586c4b9b5577ed03d257e
+      spriteID: 9d34f38a992e3d14d8c8eab020de13ed
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_L_0
+      name: Skeleton 60
       rect:
         serializedVersion: 2
         x: 162
@@ -1381,13 +1477,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 492bbd365a61b3a41a3802d5ffa050b4
+      spriteID: 9feea83b36dfd1746ac32f338c05ce36
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_L_1
+      name: Skeleton 61
       rect:
         serializedVersion: 2
         x: 189
@@ -1401,13 +1497,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ef02d55e46be9004cb5e3305908e4f3a
+      spriteID: 5719cae81d701154a980e4b95c43eb5c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_L_2
+      name: Skeleton 62
       rect:
         serializedVersion: 2
         x: 216
@@ -1421,13 +1517,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 76f81f4cf38737e4bb50a7098705b7e3
+      spriteID: ea840e3f1e92f0e409e2c184494ce51b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_L_3
+      name: Skeleton 63
       rect:
         serializedVersion: 2
         x: 243
@@ -1441,13 +1537,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2531a2354f4b2dd45a620c6f2168ff51
+      spriteID: 2a876fbf4b806804196cec4bda7c3fd5
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_L_4
+      name: Skeleton 64
       rect:
         serializedVersion: 2
         x: 270
@@ -1461,13 +1557,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 15ff88ecea1dc0e4088e1cf135819af1
+      spriteID: af229ce0ed18e714f9b979fd39c2697e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_L_5
+      name: Skeleton 65
       rect:
         serializedVersion: 2
         x: 297
@@ -1481,13 +1577,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a45e7b855048aff4b9f3cdf0b3f1a35b
+      spriteID: d6abf2d15c167444d9ba7bf8c461c143
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_UL_0
+      name: Skeleton 66
       rect:
         serializedVersion: 2
         x: 324
@@ -1501,13 +1597,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eebd56e6290ad044983a3aa5f451cad4
+      spriteID: eedabf86db36c2044bed01172ec81c6d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_UL_1
+      name: Skeleton 67
       rect:
         serializedVersion: 2
         x: 351
@@ -1521,13 +1617,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 87c2e5c1137415246aa2a97be50f6d50
+      spriteID: 437af9bd55874b0428494e9ca601502e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_UL_2
+      name: Skeleton 68
       rect:
         serializedVersion: 2
         x: 378
@@ -1541,13 +1637,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2028b7fa56332fa408c138b7ecadb566
+      spriteID: 589fc23713e9b09439d8cf1d597c4985
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_UL_3
+      name: Skeleton 69
       rect:
         serializedVersion: 2
         x: 405
@@ -1561,13 +1657,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 038e3d793700abe40a7816ff5de39138
+      spriteID: 196a6023d07507c48b9051ca0750bad4
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_UL_4
+      name: Skeleton 70
       rect:
         serializedVersion: 2
         x: 432
@@ -1581,13 +1677,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8fa43c02e58864044b4c39c6c432eee8
+      spriteID: e34009c456895784283c1e8a57e70c2a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_UL_5
+      name: Skeleton 71
       rect:
         serializedVersion: 2
         x: 459
@@ -1601,13 +1697,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f022c8000cdfb014db161ba5bf9ceff3
+      spriteID: 32288ec7a45860249992b4aaf61544e6
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_U_0
+      name: Skeleton 72
       rect:
         serializedVersion: 2
         x: 0
@@ -1621,13 +1717,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7f83db62b6c861c4681b2d9c1ed05e6a
+      spriteID: 4287f8cb83be84247a47f7db6988b665
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_U_1
+      name: Skeleton 73
       rect:
         serializedVersion: 2
         x: 27
@@ -1641,13 +1737,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 731f447f67f393e4e97e3bd026eebc20
+      spriteID: 5806e4f60fb678a4bb8a638da803a06e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_U_2
+      name: Skeleton 74
       rect:
         serializedVersion: 2
         x: 54
@@ -1661,13 +1757,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bbcd8a5d74efb194c8bb77d6453fc4a5
+      spriteID: b9610d5481b03e04ebdd74cfe3c23d71
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_U_3
+      name: Skeleton 75
       rect:
         serializedVersion: 2
         x: 81
@@ -1681,13 +1777,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7295cf65321925940b025975bf942bfc
+      spriteID: 845f3e98729e26842b7a5a24b9ecc464
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_U_4
+      name: Skeleton 76
       rect:
         serializedVersion: 2
         x: 108
@@ -1701,13 +1797,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c29443788c785224ab8e7641a3b8f221
+      spriteID: a0583312f4e202e4baddaed44367c037
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_U_5
+      name: Skeleton 77
       rect:
         serializedVersion: 2
         x: 135
@@ -1721,13 +1817,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bf7ddc1b95668994799d38d7a61cf5f8
+      spriteID: dfd88f815987f374db70867fb0d61f5d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_UR_0
+      name: Skeleton 78
       rect:
         serializedVersion: 2
         x: 162
@@ -1741,13 +1837,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c0f565ae95a4a2a4ea92b07e84c8bf05
+      spriteID: d6f5ae3d7cff18d4dadf13e97c08ac46
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_UR_1
+      name: Skeleton 79
       rect:
         serializedVersion: 2
         x: 189
@@ -1761,13 +1857,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7f81ec50ae57efe4da713f15975aae4d
+      spriteID: 8303d06505a1ef74d87e12f605d006ec
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_UR_2
+      name: Skeleton 80
       rect:
         serializedVersion: 2
         x: 216
@@ -1781,13 +1877,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 35183016bf3200c428b8484d105692c3
+      spriteID: 4c4e42b6355dc344491671cafb751fc6
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_UR_3
+      name: Skeleton 81
       rect:
         serializedVersion: 2
         x: 243
@@ -1801,13 +1897,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6ae97eba2e805ec4484b3c6984abbd44
+      spriteID: 7b1ecba595d8410449ebe841eb6f52bd
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_UR_4
+      name: Skeleton 82
       rect:
         serializedVersion: 2
         x: 270
@@ -1821,13 +1917,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 52220e0254721094f96c9c9248556c62
+      spriteID: ff67b3df397f56c46b96035a8df421fe
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_UR_5
+      name: Skeleton 83
       rect:
         serializedVersion: 2
         x: 297
@@ -1841,13 +1937,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b93789461aa7f864daee54c32b9f9d9b
+      spriteID: 4edf9a7ec63f6b143ac748e68342ab50
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_R_0
+      name: Skeleton 84
       rect:
         serializedVersion: 2
         x: 324
@@ -1861,13 +1957,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8aedfbe7d10ac5944a215721a1c3d9f3
+      spriteID: 41a6b586402c6664f994f2053a735b1b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_R_1
+      name: Skeleton 85
       rect:
         serializedVersion: 2
         x: 351
@@ -1881,13 +1977,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fd3c8d796d392684a844574d5806d666
+      spriteID: 7c89305b626fe8c408cc30ab35cf5517
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_R_2
+      name: Skeleton 86
       rect:
         serializedVersion: 2
         x: 378
@@ -1901,13 +1997,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8fcf5f488eab66045936cbef546e7816
+      spriteID: 567392be8271fd645a3210a2fe4dcb61
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_R_3
+      name: Skeleton 87
       rect:
         serializedVersion: 2
         x: 405
@@ -1921,13 +2017,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 03693858f342ab24cb9cf6893b4b0952
+      spriteID: 39fd8252f5f91f34cb96992319abe0de
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_R_4
+      name: Skeleton 88
       rect:
         serializedVersion: 2
         x: 432
@@ -1941,13 +2037,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 25104557993834c4283c41f06b6fad47
+      spriteID: 20a6c54764a417a4e97265f8fcdb606e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_R_5
+      name: Skeleton 89
       rect:
         serializedVersion: 2
         x: 459
@@ -1961,13 +2057,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ac4ce3b4d0153fe4a9c5aeaf234445b2
+      spriteID: 08ce6e2477373a64c8c508d08f43eaaa
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_DR_0
+      name: Skeleton 90
       rect:
         serializedVersion: 2
         x: 0
@@ -1981,13 +2077,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 64205031cde621f49b1ec3f62127a6df
+      spriteID: 5361e8c40bae00343bd836f61d8366ed
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_DR_1
+      name: Skeleton 91
       rect:
         serializedVersion: 2
         x: 27
@@ -2001,13 +2097,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8db0213ea56894f46bcba4cf9eabe5f5
+      spriteID: 30c053ac2b0405347b79c443230ee670
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_DR_2
+      name: Skeleton 92
       rect:
         serializedVersion: 2
         x: 54
@@ -2021,13 +2117,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5284adfb287a4d241958401fa7c157a9
+      spriteID: 331b92c2f473c26469e3f2226f05afe7
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_DR_3
+      name: Skeleton 93
       rect:
         serializedVersion: 2
         x: 81
@@ -2041,13 +2137,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 35be3d8ad42757a428fd948a8ea5b94f
+      spriteID: 1221a4f1f7a419a4b94e5712ac41bf0b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_DR_4
+      name: Skeleton 94
       rect:
         serializedVersion: 2
         x: 108
@@ -2061,13 +2157,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f32c528f0386f4a41b122c57d01d37dc
+      spriteID: 48f123f64809d514f9041e1627148ca3
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_MoveLoop_DR_5
+      name: Skeleton 95
       rect:
         serializedVersion: 2
         x: 135
@@ -2081,7 +2177,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4024a270514028840ac3f892a839f618
+      spriteID: 0712a5cd5b73ac048be9a6ba5d890b11
       vertices: []
       indices: 
       edges: []
