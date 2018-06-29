@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public abstract class Enemy : UnitBase {
+public abstract class FriendlyUnit : UnitBase {
 
 	// Use this for initialization
-    public void Start () {
+	public void Start () {
 		base.Start();
-	} 
+	}
 }
