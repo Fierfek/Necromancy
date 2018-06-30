@@ -122,7 +122,7 @@ BlendTree:
   m_MaxThreshold: 1
   m_UseAutomaticThresholds: 1
   m_NormalizedBlendValues: 0
-  m_BlendType: 3
+  m_BlendType: 1
 --- !u!206 &206924074116703540
 BlendTree:
   m_ObjectHideFlags: 1
@@ -200,7 +200,7 @@ BlendTree:
   m_MaxThreshold: 0.875
   m_UseAutomaticThresholds: 1
   m_NormalizedBlendValues: 0
-  m_BlendType: 3
+  m_BlendType: 1
 --- !u!1102 &1102195195382199484
 AnimatorState:
   serializedVersion: 5
@@ -232,7 +232,7 @@ AnimatorState:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Movement
+  m_Name: Move
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
