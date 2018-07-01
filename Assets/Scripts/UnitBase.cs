@@ -7,10 +7,11 @@ using UnityEngine;
 public abstract class UnitBase : MonoBehaviour {
 
 	protected Health health;
-	protected GameObject healthBar;
-	protected Animator animator;
-	protected Rigidbody2D body;
 
+	protected Animator animator;
+	protected string animationState = "Idle";
+
+	protected Rigidbody2D body;
 	protected Vector2 newPositon, changePosition;
 
 	public float speed = 3;
@@ -31,10 +32,12 @@ public abstract class UnitBase : MonoBehaviour {
 		}
 
 		if (changePosition.magnitude > 0f) {
-			animator.Play("Move");
+			animationState = "Move";
 		}
 		else {
-			animator.Play("Idle");
+			animationState = "Idle";
 		}
+
+		animator.Play(animationState);
 	}
 }

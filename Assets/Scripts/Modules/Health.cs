@@ -4,15 +4,22 @@ using UnityEngine;
 
 public class Health : MonoBehaviour {
 
+	private HealthBar healthBar;
+	
 	public float maxHealth = 30;
     public float health = 30;
 
-    public float getHealth() {
+	public void Awake() {
+		healthBar = GetComponentInChildren<HealthBar>();
+	}
+
+	public float getHealth() {
 		return health;
 	}
 
 	public void setHealth(float h) {
 		health = h;
+		healthBar.set((health / maxHealth));
 	}
 
 	public float getMaxHealth() {
@@ -29,5 +36,7 @@ public class Health : MonoBehaviour {
 		} else {
 			health = 0;
 		}
+
+		healthBar.set(health / maxHealth);
 	}
 }

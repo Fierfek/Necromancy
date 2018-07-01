@@ -8,8 +8,8 @@ public class Skeleton : FriendlyUnit {
 	void Start () {
 		base.Start();
 		name = "Skeleton";
-		health.setHealth(20);
 		health.setMaxhealth(20);
+		health.setHealth(20);
 	}
 	
 	// Update is called once per frame
