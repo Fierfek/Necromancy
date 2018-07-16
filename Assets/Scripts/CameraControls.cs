@@ -17,7 +17,8 @@ public class CameraControls : MonoBehaviour {
 	
 	// Update is called once per frame
 	void LateUpdate () {
-		maxDelta = Vector3.Distance(transform.position, target.position) / (Mathf.Pow(1.03f, 2));
+		//Reduces Jitter during movement. 1.02 eliminates jitter of character movement while maximizing jitter reduction fo world.
+		maxDelta = Vector3.Distance(transform.position, target.position) / (Mathf.Pow(1.02f, 2));
 		transform.position = Vector3.MoveTowards(transform.position, target.position, maxDelta);
 		//transform.Translate(target.position - transform.position);
 	}
