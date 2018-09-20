@@ -12,7 +12,7 @@ public abstract class UnitBase : MonoBehaviour {
 	protected string animationState = "Idle";
 
 	protected Rigidbody2D body;
-	protected Vector2 newPositon, changePosition;
+	protected Vector2 newPosition, changePosition;
 
 	public float speed = 3;
 
